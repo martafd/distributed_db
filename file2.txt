@@ -1,1 +1,6 @@
 some changes
+<<<<<<< HEAD
+=======
+
+some local changes
+>>>>>>> branch1
