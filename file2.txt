@@ -1,6 +1,4 @@
-some changes
-<<<<<<< HEAD
-=======
-
+some change
 some local changes
->>>>>>> branch1
+
+changes from github
